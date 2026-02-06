@@ -9,13 +9,12 @@
 ## 🚀 Technologies and Languages
 
   ### 🧠 Programming Languages
-  - C / C++ / C#
+  - C++ / C#
   - Java
   - Python
   - SQL
   - Swift
   - Objective-C
-  - Angular
   - Kotlin
   - MongoDB
 
