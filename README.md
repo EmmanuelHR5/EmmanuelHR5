@@ -1,8 +1,8 @@
 # Hola, soy Emmanuel Hernández Rivas
 
 Estudiante de Ingeniería en Sistemas  
-Interesado en el desarrollo de software, programación de sistemas y aplicaciones  
-Trabajo en proyectos académicos y personales enfocados en lógica, compiladores y desarrollo multiplataforma
+Interesado en el desarrollo de software, redes, programación de sistemas y aplicaciones.
+Trabajo en proyectos académicos y personales enfocados en lógica y desarrollo multiplataforma
 
 ---
 
@@ -16,18 +16,21 @@ Trabajo en proyectos académicos y personales enfocados en lógica, compiladores
 - Swift
 - Objective-C
 - Angular
+- Kotlin
 
 ### Herramientas y entornos
 - Git & GitHub
 - Linux / macOS
 - Visual Studio Code
 - Xcode
-- SQL Server / MySQL
+- SQL Server / MySQL 
 - Oracle Cloud Infraestructure
 - AWS
 - SketchUP
 - Cisco Packet Tracer
 - MongoDB
+- Android Studio
+- Firebase
 - 
 
 ---
