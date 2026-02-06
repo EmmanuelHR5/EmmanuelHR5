@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Emmanuel Hernández Rivas
 
-🎓 Systems Engineering student  
+🎓 Computer Science Engineering student  
 💻 Interested in software development, networking, system programming, and application development.  
 📚 I work on academic and personal projects focused on logic, databases, and multiplatform development.
 
@@ -8,33 +8,33 @@
 
 ## 🚀 Technologies and Languages
 
-### 🧠 Programming Languages
-- C / C++ / C#
-- Java
-- Python
-- SQL
-- Swift
-- Objective-C
-- Angular
-- Kotlin
-- MongoDB
+  ### 🧠 Programming Languages
+  - C / C++ / C#
+  - Java
+  - Python
+  - SQL
+  - Swift
+  - Objective-C
+  - Angular
+  - Kotlin
+  - MongoDB
 
-### 🛠️ Tools and Environments
-- Git & GitHub
-- Linux / macOS
-- Visual Studio Code
-- Xcode
-- Android Studio
-- Firebase
-- SQL Server / MySQL
-- Oracle Cloud Infrastructure (OCI)
-- AWS
-- Cisco Packet Tracer
-- SketchUp
-- Postman
-- Insomnia
-- VMware Workstation
-- Docker
+  ### 🛠️ Tools and Environments
+  - Git & GitHub
+  - Linux / macOS
+  - Visual Studio Code
+  - Xcode
+  - Android Studio
+  - Firebase
+  - SQL Server / MySQL
+  - Oracle Cloud Infrastructure (OCI)
+  - AWS
+  - Cisco Packet Tracer
+  - SketchUp
+  - Postman
+  - Insomnia
+  - VMware Workstation
+  - Docker
 
 ---
 
