@@ -1,14 +1,14 @@
-# Hola, soy Emmanuel Hernández Rivas
+# 👋 Hi, I'm Emmanuel Hernández Rivas
 
-Estudiante de Ingeniería en Sistemas  
-Interesado en el desarrollo de software, redes, programación de sistemas y aplicaciones.
-Trabajo en proyectos académicos y personales enfocados en lógica y desarrollo multiplataforma
+🎓 Systems Engineering student  
+💻 Interested in software development, networking, system programming, and application development.  
+📚 I work on academic and personal projects focused on logic, databases, and multiplatform development.
 
 ---
 
-## Tecnologías y lenguajes
+## 🚀 Technologies and Languages
 
-### Lenguajes
+### 🧠 Programming Languages
 - C / C++ / C#
 - Java
 - Python
@@ -17,57 +17,54 @@ Trabajo en proyectos académicos y personales enfocados en lógica y desarrollo 
 - Objective-C
 - Angular
 - Kotlin
+- MongoDB
 
-### Herramientas y entornos
+### 🛠️ Tools and Environments
 - Git & GitHub
 - Linux / macOS
 - Visual Studio Code
 - Xcode
-- SQL Server / MySQL 
-- Oracle Cloud Infraestructure
-- AWS
-- SketchUP
-- Cisco Packet Tracer
-- MongoDB
 - Android Studio
 - Firebase
-- 
+- SQL Server / MySQL
+- Oracle Cloud Infrastructure (OCI)
+- AWS
+- Cisco Packet Tracer
+- SketchUp
+- Postman
+- Insomnia
+- VMware Workstation
 
 ---
 
-## Proyectos destacados
-- Analizador léxico y semántico
-- Programas en C para consola (Linux / macOS)
-- Aplicaciones en Swift y Objective-C (iOS / macOS)
-- Sistemas con bases de datos relacionales
-- Gestor de correos con IA
-- Proyecto fullstack sistema de tickets 
+## 📌 Featured Projects
+- Lexical and semantic analyzer
+- C console programs (Linux / macOS)
+- Applications in Swift and Objective-C (iOS / macOS)
+- Systems with relational databases
+- AI-powered email manager
+- MERN ticket management system
+- Corporate website development
+- Documentation and 3D modeling of the Computer Science building at **TECNM Campus Laguna**
 
 ---
 
-## Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanuelHR5&show_icons=true)
+## 📊 GitHub Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelHR5&layout=compact&theme=dark)
 
-Estoy aprendiendo a usar DJANGO, SWIFT, ARDUINO
-La administracion de redes y de bases de datos
 ---
- 
-## Contacto
-- Email: emmanuelhn108@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/emmanuel-hernández-rivas-246616254  
-- GitHub: https://github.com/EmmanuelHR5
 
-<!--
-**EmmanuelHR5/EmmanuelHR5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Learning
+- Django
+- Swift
+- Arduino
+- Network administration
+- Database administration
+- 3D modeling of the Computer Science building
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- 📧 Email: **emmanuelhn108@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/emmanuel-hernández-rivas-246616254
+- 🐙 GitHub: https://github.com/EmmanuelHR5
