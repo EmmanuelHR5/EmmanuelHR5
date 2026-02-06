@@ -34,6 +34,7 @@
 - Postman
 - Insomnia
 - VMware Workstation
+- Docker
 
 ---
 
@@ -46,12 +47,6 @@
 - MERN ticket management system
 - Corporate website development
 - Documentation and 3D modeling of the Computer Science building at **TECNM Campus Laguna**
-
----
-
-## 📊 GitHub Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelHR5&layout=compact&theme=dark)
-
 ---
 
 ## 🌱 Currently Learning
