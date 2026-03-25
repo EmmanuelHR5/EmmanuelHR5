@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A800CA&center=true&width=600&lines=Hi%2C+I%27m+Emmanuel+Hernandez+Rivas;EmmanuelHR5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&width=600&lines=👋Hi%2C+I%27m+Emmanuel+Hernandez+Rivas;EmmanuelHR5" alt="Typing SVG" />
 
 🎓 Computer Science Engineering student  
 💻 Interested in software development, networking, system programming, and application development.  
