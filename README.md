@@ -6,6 +6,8 @@
 
 ---
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A800CA&center=true&width=435&lines=Emmanuel+Hernandez;EmmanuelHR5" alt="Typing SVG" />
+
 ## 🚀 Technologies and Languages
 
   ### 🧠 Programming Languages
