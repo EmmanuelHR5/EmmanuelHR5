@@ -57,6 +57,10 @@
 - 3D modeling of the Computer Science building
 
 ---
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmmanuelHR5&theme=midnight_purple&utcOffset=-6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmmanuelHR5&theme=midnight_purple)
+
+---
 
 ## 📫 Contact
 - 📧 Email: **emmanuelhn108@gmail.com**
